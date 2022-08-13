@@ -6,7 +6,6 @@
 <p align="center">
     <img   align="center" alt="visitors" src="https://gpvc.arturio.dev/robin-anmol" />
 </p>
-
 ## About Me
  <h3>- <i>A passinate individual who loves building web applications, a developer and gamer by passion, an engineer by profession and a gym lover by interest.-
  <br/>
@@ -66,9 +65,16 @@
 
 <br/>
 
-## 📊 Github stats
+---
+### 📊 Github stats
 <p align="center">
 <a href="https://github.com/robin-anmol/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=robin-anmol&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
 <a href="https://github.com/robin-anmol/github-readme-stats"><img alt="sherwyn11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robin-anmol&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
 <a href="https://github.com/robin-anmol/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-anmol&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
  </p>
+ 
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--[![](https://visitcount.itsvg.in/api?id=robin-anmol&icon=0&color=0)](https://visitcount.itsvg.in)-->
