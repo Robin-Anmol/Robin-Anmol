@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently learning **Computer Science** and **Backend development Node.js**
 - 🤝 I’m looking to collaborate on OpenSource Projects.
-<!-- - 🤝 I’m looking for help with **how to excel in competitive programming** -->
 - ⚡ Fun fact **I am kinda boring and sometimes dumb though, but I am a detemined guy.**
 - 📫 How to reach me **anmolgangwar64@gmail.com**
 
 <br/>
+<!-- - 🤝 I’m looking for help with **how to excel in competitive programming** -->
 <!-- - 💬 Ask me about **Node.js, ReactJS,** -->
 <!-- - 👯 I’m looking to collaborate on **Any Backend development or App Development projects** -->
 
