@@ -46,8 +46,8 @@
 <p align="left"> 
    
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,react,nodejs,expressjs,mongodb,)
-![My Skills](https://skillicons.dev/icons?i=bootstrap,styledcomponents,css,tailwind,scss,firebase,git,mui,redux,nextjs)
-![My Skills](https://skillicons.dev/icons?i=heroku,netlify,linux,webpack,photoshop,figma,github)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,styledcomponents,css,tailwind,scss,firebase,mui,redux,nextjs)
+![My Skills](https://skillicons.dev/icons?i=heroku,netlify,linux,webpack,photoshop,figma,git,github)
 
 ---
 
