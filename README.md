@@ -5,7 +5,7 @@
 </p>
 <br/>
 <p align="center">
-    <img   align="center" alt="visitors" src="https://gpvc.arturio.dev/robin-anmol" />
+    <img   align="center" alt="visitors" src="https://gpvc.arturio.dev/cyberboyanmol" />
 </p>
 
 ## About Me
@@ -31,7 +31,7 @@
 <br/>
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="left">
-<a href="https://github.com/robin-anmol"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
+<a href="https://github.com/cyberboyanmol"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://instagram.com/robin_anmol"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://discord.com/users/robin_anmol" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Discord-777777?style=for-the-badge&logoColor=white&logo=discord"  /></a>
   <a href="https://www.facebook.com/anmol.gangwar.73594/"><img alt="Website" title="My Website" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
@@ -54,9 +54,9 @@
 ### 📊 Github stats
 
 <p align="center">
-<a href="https://github.com/robin-anmol/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=robin-anmol&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
-<a href="https://github.com/robin-anmol/github-readme-stats"><img alt="sherwyn11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robin-anmol&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
-<a href="https://github.com/robin-anmol/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-anmol&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
+<a href="https://github.com/cyberboyanmol/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberboyanmol&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
+<a href="https://github.com/cyberboyanmol/github-readme-stats"><img alt="sherwyn11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cyberboyanmol&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
+<a href="https://github.com/cyberboyanmol/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberboyanmol&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
  </p>
  
 ---
