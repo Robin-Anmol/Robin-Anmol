@@ -5,7 +5,7 @@
 </p>
 <br/>
 <p align="center">
-    <img   align="center" alt="visitors" src="https://gpvc.arturio.dev/cyberboyanmol" />
+    <img   align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=cyberboyanmol" />
 </p>
 
 ## About Me
