@@ -32,10 +32,8 @@
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="left">
 <a href="https://github.com/cyberboyanmol"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
-<a href="https://instagram.com/robin_anmol"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
   <a href="https://discord.com/users/robin_anmol" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Discord-777777?style=for-the-badge&logoColor=white&logo=discord"  /></a>
-  <a href="https://www.facebook.com/anmol.gangwar.73594/"><img alt="Website" title="My Website" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
-  <a href="https://www.linkedin.com/in/robinanmol/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://gmail.com"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
